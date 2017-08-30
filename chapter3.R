@@ -52,3 +52,4 @@ table(youwa,amakara)
 youwa01 <- ifelse(youwa=="洋食",1,0)
 amakara01 <- ifelse(amakara=="甘党",1,0)
 cor(youwa01,amakara01)
+
